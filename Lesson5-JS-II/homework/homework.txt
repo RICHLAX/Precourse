@@ -1,0 +1,24 @@
+Feynman Writing Prompts
+
+For:
+the "for" keyword signifies a type of loop or software code that runs over and over
+until it returns what we are looking for. There are 3 main parts to a for loop statement.
+First is to declare a variable, second is a conditional expression or statement that will
+continue until it is false. Third is the incrementation of the variable. For loops usually
+run until the conditional expression is false.
+
+&& || and !:
+These are called Logical Operators.
+
+&& means AND...this will check if both expressions are true. If they are it will return
+TRUE. If one of them is false it will return FALSE.
+
+|| means OR....this will check if one of the expressions is true. If one or two expressions
+are true then it will return TRUE. If both expressions are false then it will return FALSE.
+
+! means NOT....it will return the opposite boolean value of what is passed to it.
+
+Arrays:
+These can be thought of as containers for a collection of several data types.
+To create an Array you set a variable followed by []. You can then insert variables
+separated by commas.  It can almost be unlimited amounts of variables and of any type.
